@@ -25,7 +25,7 @@ By building this strong foundation in C, I aim to:
 
 ## 🔗 Connect with Me
 
-- 👨‍💻 [Satyarth Shree on GitHub](https://github.com/satyarthshree)
+- 👨‍💻 [Satyarth Shree on GitHub](https://github.com/Satyarth-Shree)
 - 📝 [Read my learning blog on Medium](https://medium.com/@satyarthshree45)
 - 📫 Email: satyarthshree45@gmail.com
 
