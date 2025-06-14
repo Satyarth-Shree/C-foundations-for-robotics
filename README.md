@@ -23,11 +23,15 @@ By building this strong foundation in C, I aim to:
 - Work confidently with **Arduino**, **microcontrollers**, and **real-time systems**
 - Design robotic systems that interact with the physical world
 
-## 🔗 Connect with Me
+## 📡 Let’s Connect
 
-- 👨‍💻 [Satyarth Shree on GitHub](https://github.com/Satyarth-Shree)
-- 📝 [Read my learning blog on Medium](https://medium.com/@satyarthshree45)
-- 📫 Email: satyarthshree45@gmail.com
+I'm documenting my journey in robotics, C programming, and automation through weekly blogs. If you’d like to connect, collaborate, or just say hi — feel free to reach out!
+
+- 📝 [Read my blogs on Medium](https://medium.com/@satyarthshree45)
+- 📬 [Send me a message](https://forms.gle/jhqSoW97Umgp585w6)
+
+_I usually reply within 1–2 days. Looking forward to hearing from you!_
+
 
 ---
 
